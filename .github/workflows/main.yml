@@ -23,4 +23,4 @@ jobs:
         run: npm install  # تثبيت الحزم
 
       - name: Run Node.js script
-        run: node index.js  # تشغيل ملف index.js
+        run: node main.js  # تشغيل ملف index.js
